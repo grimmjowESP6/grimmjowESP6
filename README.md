@@ -25,6 +25,7 @@ Languages: <br>
 ![](https://nirzak-streak-stats.vercel.app/?user=grimmjowESP6&theme=dracula&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=grimmjowESP6&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+<!--
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=grimmjowESP6&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
@@ -36,6 +37,7 @@ Languages: <br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=grimmjowESP6&icon=2&color=0)](https://visitcount.itsvg.in)
+-->
 ### Thanks for visiting my profile, Have a nice day!
 This is made with GPRM and some tweakings of my own.
 
