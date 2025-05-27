@@ -1,6 +1,6 @@
 <img src="hero.jpg" alt="GitHub Hero Banner" width="100%" />
 
-# Hello everyone, <br>I am <code>Shaik Abdul Arshad</code>
+# Nice to meet you, <br>I am <code>Arshad</code>
 - I'm an Undergrad Student.
 - Currently in the process of learning.
 - I love Python, BLEACH and Grimmjow.
@@ -36,6 +36,8 @@ Languages: <br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=grimmjowESP6&icon=2&color=0)](https://visitcount.itsvg.in)
+### Thanks for visiting my profile, Have a nice day!
+This is made with GPRM and some tweakings of my own.
 
 
 <!--
