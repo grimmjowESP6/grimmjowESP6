@@ -1,8 +1,8 @@
 <img src="hero.jpg" alt="GitHub Hero Banner" width="100%" />
 
-# Hello everyone, <br>I am Shaik Abdul Arshad
+# Hello everyone, <br>I am <code>Shaik Abdul Arshad</code>
 - I'm an Undergrad Student.
-- I'm currently in the process of learning.
+- Currently in the process of learning.
 - I love Python, BLEACH and Grimmjow.
 
 # Tech Stack:
